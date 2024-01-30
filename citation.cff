@@ -8,6 +8,6 @@ title: "Open-Source, Percutaneous Connector for Large Animal, in vivo Studies"
 version: 1.0.0
 identifiers:
   - type: doi
-    value: 
+    value: 10.5281/zenodo.10595047
 date-released: 2024-01-30
 url: "https://github.com/jacintacleary-usyd/Percutaneous-Connector"
