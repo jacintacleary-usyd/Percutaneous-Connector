@@ -7,4 +7,6 @@ authors:
 title: "Open-Source, Percutaneous Connector for Large Animal, in vivo Studies"
 version: 1.0.0
 identifiers:
+  - type: doi
+    value: 
 date-released: 2024-01-30
